@@ -1,5 +1,5 @@
-# atomic-repo-hello-world-kotlin
+# atomic-repos-project-euler-1-kotlin
 
-![GitHub Actions CI Workflow](https://github.com/atomic-repos/atomic-repos-hello-world-kotlin/actions/workflows/config.yml/badge.svg)
+![GitHub Actions CI Workflow](https://github.com/atomic-repos/atomic-repos-project-euler-1-kotlin/actions/workflows/config.yml/badge.svg)
 
-This repo is a template for Atomic Repos using Kotlin and Maven.
+This repo provides a solution to [Project Euler](https://projecteuler.net/) problem [one](https://projecteuler.net/problem=1) in Kotlin.

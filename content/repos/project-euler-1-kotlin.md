@@ -1,14 +1,15 @@
 ---
-title: Hello, World!
+title: 'Project Euler #1 - Multiples of 3 or 5 - Kotlin'
+authors:
+- matt-stine
 icon: kotlin
 icon_pack: custom
-summary: 'Atomic Repos Template'
+summary: 'Finds the sum of all multiples of 3 or 5 below 1000.'
 github_user: mstine
-github_repo: atomic-repos/atomic-repos-hello-world-kotlin
-author: Matt Stine
-date: 2022-03-07
+github_repo: atomic-repos/atomic-repos-project-euler-1-kotlin
+date: 2022-03-16
 tags:
-    - template
+    - project-euler
     - kotlin
 ---
 
